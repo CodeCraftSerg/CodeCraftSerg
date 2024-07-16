@@ -1,10 +1,16 @@
-## Hi there 👋
+## Hi there 👋, I'm Serhii
+
+### Python Developer
+
+🌱 I’m currently learning the Data Science block.
+👯 I’m looking to collaborate on interesting web projects.
+📫 Please contact me via **[email](onyserh@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/serhii-onyshchenko-python-developer/)**
 
 <!--
 **CodeCraftSerg/CodeCraftSerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
